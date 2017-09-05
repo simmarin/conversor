@@ -9,6 +9,9 @@ Operaciones k =new Kb_Mb();
 Operaciones m =new Mb_Gb();
         System.out.println("son " +m.multiplicacion(1)+" Mb");
         System.out.println("son " +m.division(55)+"Gb");
-
+Operaciones g=new Gb_Tb();
+        System.out.println("son " +g.multiplicacion(1)+" Gb");
+        System.out.println("son " +g.division(545)+"Tb");
+               
     }
 }
